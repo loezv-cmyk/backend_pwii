@@ -1,0 +1,5 @@
+﻿{
+  "ignore": ["logs", "logs/*", "src/logs"],
+  "ext": "js,json",
+  "delay": "1000"
+}
